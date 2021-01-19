@@ -1,4 +1,4 @@
-"mirt_vae_correlated_data" 
+
 
 ECPE data can also be downloaded via the CDM package in R, found at https://cran.r-project.org/web/packages/CDM/CDM.pdf.
 
